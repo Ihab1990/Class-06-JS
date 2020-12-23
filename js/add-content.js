@@ -1,6 +1,3 @@
-
-# Class-06-JS
-
 var today= new Date();
 var hourNow = today.getHours();
 var greeting;
@@ -13,4 +10,4 @@ greeting = 'Good morni ng!';
 } else {
 greeting = 'Welcome! ' ;
 }
-document .write( ' <h3>' +greeting + ' </ h3> ');
+document.write( ' <h3>' +greeting + ' </ h3> ');
